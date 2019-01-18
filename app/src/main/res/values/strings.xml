@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unsplash Demo</string>
+    <string name="title_activity_image_overview">ImageOverviewActivity</string>
+    <string name="title_activity_image_detail">ImageDetailActivity</string>
+
+    <string name="lorem">There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form by injected humour or randomised words which dont look even slightly believable </string>
+    <string name="uploadPhotoErrorMsg">Failed to download images.</string>
+</resources>
